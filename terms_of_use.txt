@@ -1,0 +1,152 @@
+Terms of Use for RSI Tracker
+
+Last Updated: January 20, 2025
+
+These Terms of Use ("Terms") govern your use of the RSI Tracker mobile application ("App", "Service") operated by RSI Tracker ("we", "us", or "our"). By downloading, installing, or using our App, you agree to be bound by these Terms.
+
+Acceptance of Terms
+
+By accessing and using RSI Tracker, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to these Terms, please do not use our Service.
+
+Description of Service
+
+RSI Tracker is a mobile application that provides stock market analysis tools, including but not limited to:
+- Real-time and historical stock data visualization
+- Technical analysis indicators including RSI (Relative Strength Index)
+- Market sentiment analysis
+- Trading signals and insights
+- Premium features available through subscription
+
+Subscription Services
+
+Auto-Renewable Subscriptions
+- RSI Tracker offers auto-renewable subscription services that provide access to premium features
+- Subscription types include monthly and annual plans as displayed in the App
+- Subscriptions automatically renew unless cancelled at least 24 hours before the current period ends
+- You can manage or cancel subscriptions through your Apple App Store account settings
+- No refunds are provided for unused portions of subscriptions
+
+Payment Terms
+- Payment will be charged to your Apple App Store account at confirmation of purchase
+- Subscriptions automatically renew at the same price unless auto-renewal is turned off
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- Subscription prices are subject to change with notice
+
+Free Trial
+- Free trial periods, if offered, will be forfeited when you purchase a subscription
+- You must cancel before the trial period ends to avoid charges
+
+User Accounts and Registration
+
+- You may use RSI Tracker without creating an account for basic features
+- Premium features require an active subscription
+- If you use Sign in with Apple or other authentication services, you agree to their respective terms
+- You are responsible for maintaining the confidentiality of your account information
+- You agree to provide accurate, current, and complete information
+
+Acceptable Use
+
+You agree not to:
+- Use the Service for any unlawful purpose or in violation of any local, state, national, or international law
+- Attempt to gain unauthorized access to the Service or its related systems
+- Use the Service to transmit any harmful, offensive, or inappropriate content
+- Reverse engineer, decompile, or disassemble the App
+- Use automated systems or software to extract data from the Service
+- Interfere with or disrupt the Service or servers connected to the Service
+
+Investment Disclaimer
+
+- RSI Tracker provides educational and informational content only
+- The information provided is not investment advice, financial advice, or trading advice
+- All investment decisions are made at your own risk and discretion
+- Past performance does not guarantee future results
+- You should consult with a qualified financial advisor before making investment decisions
+- We are not responsible for any financial losses resulting from your use of the Service
+
+Data and Privacy
+
+- Your privacy is important to us. Please review our Privacy Policy for information on how we collect, use, and protect your data
+- You grant us permission to use data as described in our Privacy Policy
+- We may collect usage analytics to improve the Service
+
+Intellectual Property
+
+- The Service and its original content, features, and functionality are owned by RSI Tracker
+- The Service is protected by copyright, trademark, and other intellectual property laws
+- You may not reproduce, distribute, modify, or create derivative works of our content
+- All trademarks, service marks, and logos used in the Service are our property or the property of third parties
+
+Third-Party Services
+
+- Our App may contain links to third-party websites or services
+- We are not responsible for the content, privacy policies, or practices of third-party services
+- Your use of third-party services is governed by their respective terms
+
+Data Sources
+- Stock market data is provided by third-party data providers
+- We do not guarantee the accuracy, completeness, or timeliness of market data
+- Data may be delayed or subject to provider limitations
+
+Disclaimer of Warranties
+
+- The Service is provided "as is" and "as available" without warranties of any kind
+- We disclaim all warranties, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement
+- We do not warrant that the Service will be uninterrupted, error-free, or secure
+
+Limitation of Liability
+
+- To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages
+- Our total liability shall not exceed the amount you paid for the Service in the 12 months preceding the claim
+- Some jurisdictions do not allow the exclusion of certain warranties or limitation of liability, so these limitations may not apply to you
+
+Indemnification
+
+You agree to indemnify and hold harmless RSI Tracker and its affiliates from any claims, damages, losses, or expenses arising from your use of the Service or violation of these Terms.
+
+Termination
+
+- We may terminate or suspend your access to the Service at any time, with or without cause
+- You may terminate your use of the Service at any time by deleting the App
+- Upon termination, your right to use the Service will cease immediately
+- Provisions that by their nature should survive termination will survive
+
+App Store Terms
+
+- If you download the App from the Apple App Store, you acknowledge that these Terms are between you and RSI Tracker, not Apple
+- Apple is not responsible for the App or its content
+- Apple has no obligation to provide maintenance or support for the App
+- You agree to comply with Apple's Terms of Service and App Store Review Guidelines
+
+Geographic Restrictions
+
+The Service is intended for users in jurisdictions where such services are legal. You are responsible for compliance with local laws and regulations.
+
+Changes to Terms
+
+- We may modify these Terms at any time by posting the revised Terms in the App
+- Changes are effective immediately upon posting
+- Your continued use of the Service after changes constitutes acceptance of the new Terms
+- We will notify users of material changes through the App or other appropriate means
+
+Governing Law
+
+These Terms are governed by and construed in accordance with the laws of the European Union and the country where our business is registered. Any disputes will be resolved in the courts of that jurisdiction.
+
+Severability
+
+If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect.
+
+Contact Information
+
+If you have any questions about these Terms, please contact us at:
+
+Email: support@rsitracker.eu
+Subject Line: Terms of Use Inquiry - RSI Tracker
+
+We will respond to your inquiry within a reasonable timeframe, typically within 30 days.
+
+Entire Agreement
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and RSI Tracker regarding your use of the Service and supersede all prior agreements and understandings.
+
+This Terms of Use is effective as of the date stated above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted within the App. 
