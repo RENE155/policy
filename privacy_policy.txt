@@ -19,6 +19,7 @@ Information Collected Automatically
   - Crash reports and error logs
   - Feature usage patterns and app performance metrics
   - Time spent in the app and frequency of use
+  - Search interactions and navigation patterns within the app
 
 * Subscription Information: If you purchase subscriptions or premium features within the app:
   - Transaction details are processed by the Apple App Store
@@ -65,6 +66,10 @@ We share necessary information with trusted third-party vendors and service prov
   - Processes subscription tokens, status information, and device identifiers
   - Handles subscription validation and renewal tracking
   - Provides subscription analytics and reporting
+* Supabase: For user authentication and account management
+  - Processes email addresses and authentication tokens
+  - Manages user sessions and account data
+  - Provides secure user authentication services
 * Analytics Providers: For app performance and usage analytics (if any)
 * Cloud Infrastructure Providers: For secure data storage and app functionality
 
@@ -102,6 +107,36 @@ We retain different types of data for varying periods based on the purpose for c
 * Authentication Data: As long as your account remains active or as required for security purposes
 
 You may request deletion of your personal data by contacting us at the email address provided below.
+
+Account Deletion
+
+As required by Google Play policy, if you have created an account with our app, you can request account deletion through two methods:
+
+1. **In-App Deletion**: 
+   - Sign in to your account in the RSI Tracker app
+   - Go to Profile > Account Management
+   - Tap "Delete Account" and follow the confirmation prompts
+   - Your account and all associated data will be permanently deleted
+
+2. **Web-Based Deletion**:
+   - Visit https://rsitracker.eu/delete-account
+   - Follow the instructions to request account deletion
+   - We will process your request within 30 days
+
+When you delete your account, the following data will be permanently removed:
+- Your user account and authentication data
+- Email address and profile information
+- Subscription history and preferences
+- App usage patterns and preferences
+- Any support correspondence history
+
+Please note: 
+- Account deletion is irreversible
+- You will lose access to any active premium subscriptions
+- Some data may be retained for legal compliance (fraud prevention, tax records) as required by law
+- Processing typically completes within 30 days of your request
+
+Please note that subscription data managed by Apple App Store or Google Play Store will need to be cancelled separately through your respective app store account settings.
 
 Your Data Rights
 
@@ -167,4 +202,4 @@ We will respond to your inquiry within a reasonable timeframe, typically within 
 
 ---
 
-This Privacy Policy is effective as of the date stated above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted within the app. 
+This Privacy Policy is effective as of the date stated above and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted within the app.
